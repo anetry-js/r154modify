@@ -30,7 +30,7 @@
       "rateLimitCooldownMinutes": 62,
       "balanceLockCooldownSeconds": 122,
       "takerIdleSecondsBeforeMaker": 10,
-      "cancelAfterIdleMinutes": 5
+      "cancelAfterIdleMinutes": 7
     },
     "taker": {
       "minBps": 5,
